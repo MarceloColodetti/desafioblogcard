@@ -1,0 +1,90 @@
+body {
+  background-color: #f4d04e;
+  margin: 0px;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  font-family: "Figtree", sans-serif;
+}
+
+p,
+span,
+h1,
+article {
+  padding: 0px;
+  margin: 0px;
+}
+
+.principal {
+  background-color: #fff;
+  display: grid;
+  justify-content: center;
+  gap: 24px;
+  padding: 24px;
+  border-radius: 20px;
+  outline: solid 1px #111;
+  box-shadow: 8px 8px 0px 0px #000;
+}
+
+.ilustracao {
+  width: 336px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.conteudo {
+  width: 336px;
+  display: grid;
+  justify-items: start;
+  gap: 12px;
+}
+.status {
+  color: #111;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: 800;
+  background-color: #f4d04e;
+  padding: 4px 12px;
+  border-radius: 4px;
+}
+.publicacao {
+  color: #111;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: 500;
+}
+.titulo {
+  color: #111;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: 800;
+}
+.titulo:hover {
+  color: #f4d04e;
+}
+.descricao {
+  color: #6b6b6b;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: 500;
+}
+
+.info_autor {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.foto {
+  width: 32px;
+}
+.autor {
+  color: #111;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: 800;
+}
