@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Go to solution](https://www.frontendmentor.io/solutions/blog-card-solution-GM4XKD52OY)
+- Live Site URL: [Go to live site](https://marcelocolodetti.github.io/desafioblogcard/)
 
 ## My process
 
